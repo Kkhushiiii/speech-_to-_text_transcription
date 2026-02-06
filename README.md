@@ -33,8 +33,11 @@ For best results, the input audio file should meet the following conditions:
 ## How to Clone the Repository
 
 ```bash
--git clone https://github.com/your-username/speech-to-text-tool.git
--pip install -r requirements.txt
--python app.py
+git clone https://github.com/Kkhushiiii/speech-_to-_text_transcription.git
+
+pip install -r requirements.txt
+
+python app.py
 
 ---
+
