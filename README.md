@@ -37,10 +37,13 @@ Sample audio is also available in the same directory.
 ```bash
 git clone https://github.com/Kkhushiiii/speech-_to-_text_transcription.git
 
+cd speech-_to-_text_transcription
+
 pip install -r requirements.txt
 
 python app.py
 
 ---
+
 
 
